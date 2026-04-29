@@ -2,7 +2,7 @@
 <h2>Hi, I'm Zaed!</h2><br>
 
 🧑🏻‍💻Studied Information Technology<br>
-👨🏻‍🎓Currently learning about UI/UX and Full-stack developer <br>
+👨🏻‍🎓Still learning about UI/UX and Full-stack developer <br>
 
 
 # 💻 Tech Stack:
