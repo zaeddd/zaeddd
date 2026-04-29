@@ -1,7 +1,7 @@
-## Hi Zaed👋
+## Hi, I'm Zaed!
 
-🧑🏻‍💻Studied Information Technology
-👨🏻‍🎓Currently learning about UI/UX and Full-stack developer
+🧑🏻‍💻Studied Information Technology </br>
+👨🏻‍🎓Currently learning about UI/UX and Full-stack developer</br>
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zaeddd&show_icons=true&theme=radical)
 
