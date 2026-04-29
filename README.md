@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi Zaed👋
+
+🧑🏻‍💻Studied Information Technology
+👨🏻‍🎓Currently learning about UI/UX and Full-stack developer
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zaeddd&show_icons=true&theme=radical)
+
 
 <!--
 **zaeddd/zaeddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
